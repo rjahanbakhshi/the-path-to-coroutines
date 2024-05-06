@@ -1,0 +1,9 @@
+# Output files
+out
+build
+CMakeLists.txt.user
+
+# pyenv and pipenv
+.python-version
+Pipfile
+Pipfile.lock
